@@ -7,7 +7,7 @@ The purpose of this bike sharing analysis is in support of a business proposal. 
 ## Results
 
 ### Tableau Public Dashboard
-To see the below images in an interactive format please visit the dashboard on Tableau Public
+To see the below images in an interactive format please visit the dashboard on Tableau Public: 
 [Link to Dashboard](https://public.tableau.com/app/profile/david.clark1188/viz/NYC_Citibike_Challenge_16648557938840/Story1?publish=yes)
 
 ### Top Starting Locations
