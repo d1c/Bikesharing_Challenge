@@ -6,6 +6,10 @@ The purpose of this bike sharing analysis is in support of a business proposal. 
 
 ## Results
 
+### Tableau Public Dashboard
+To see the below images in an interactive format please visit the dashboard on Tableau Public
+![Link to Dashboard](https://public.tableau.com/app/profile/david.clark1188/viz/NYC_Citibike_Challenge_16648557938840/Story1?publish=yes)
+
 ### Top Starting Locations
 To begin, this visualization shows where most riders in New York City begin their trips using the Citibike service. The most used locations are centered around the downtown business district in Manhattan.
 ![Top Starting Locations](/resources/viz_1-Top_Starting_Locations.png)
