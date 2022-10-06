@@ -34,6 +34,12 @@ Looking at bike repairs which have the potential to impact the business in multi
 
 ## Summary
 
-* There is a high level summary of the results and two additional visualizations are suggested for future analysis.
-  * One: Female ridership. Try to determine the cause of the gap between the number of Male & Female riders. This analysis could result in a business opportunity if the gap could closed.
-  * Two: Further analysis of bike repairs. Would repair costs go down if bike are rotated from busy areas to less busy areas. Would the added cost of rotating bike negate possible savings from rotating the bikes.
+This analysis focuses on the New York City based Citibike program. The analysis is successful at identifying where the Citibike program is successful and a couple areas for possible improvement. These successes and possible improvements will help create a business proposal for a similar service in Des Moines, IA. 
+
+A possible weakness of the analysis is that an analysis of the Des Moines area and how a similar business might compare to the Citibike service New York City. On the surface, Des Moines and New York City are vastly different cities. These differences could either be beneficial or detrimental to our business proposal.
+
+### Additional Visualizations
+
+1. Search for additional datasets that can be used to analyze and compare Des Moines and New York City.
+2. Female ridership. Try to determine the cause of the gap between the number of Male & Female riders. This analysis could result in a business opportunity if the gap could closed.
+3. Further analysis of bike repairs. Would repair costs go down if bike are rotated from busy areas to less busy areas. Would the added cost of rotating bike negate possible savings from rotating the bikes.
